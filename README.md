@@ -24,12 +24,11 @@ Transformer-based LLMs develop latent representations of dependency grammar thro
 
 ## Collaborators
 
-- Asheesh (240207)
 - Saksham Gupta (240912)
 - Nitin Kumar (240709)
 - Sanjay Chaudhary (240933)
 - Tanishq Singh Gurava (241089)
-
+- Asheesh (240207)
 ## Setup
 
 1.  **Clone the repository:**
