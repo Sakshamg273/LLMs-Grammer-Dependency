@@ -13,7 +13,7 @@ Do large language models (LLMs) implicitly learn dependency grammar structures s
 
 Transformer-based LLMs develop latent representations of dependency grammar through the self-attention mechanism. The dependency structures inferred from attention patterns will significantly correlate with the gold-standard dependency structures available in annotated linguistic corpora.
 
-##Methodolgy
+## Methodolgy
 
 1. Model Selection
 Use a pre-trained transformer-based language model (e.g., GPT-style or BERT-style models)
